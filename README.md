@@ -1,3 +1,4 @@
+### ⚠️ This project is currently under active development. Features are being built, tested, and improved continuously.
 # 🧠 MedVoice AI – Intelligent Medical Voice Assistant
 
 An AI-powered voice assistant designed for the healthcare domain that enables users to interact using natural speech and receive accurate, understandable medical insights.
@@ -65,4 +66,4 @@ Built with a focus on **accessibility, real-time interaction, and patient-friend
 5. Response is converted to voice (TTS)
 6. User hears the answer 🔊
 
- ### ⚠️ This project is currently under active development. Features are being built, tested, and improved continuously.
+ 
