@@ -65,4 +65,4 @@ Built with a focus on **accessibility, real-time interaction, and patient-friend
 5. Response is converted to voice (TTS)
 6. User hears the answer 🔊
 
- ###⚠️ This project is currently under active development. Features are being built, tested, and improved continuously.
+ ### ⚠️ This project is currently under active development. Features are being built, tested, and improved continuously.
